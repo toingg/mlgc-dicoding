@@ -20,7 +20,6 @@ Pada kelas ini, saya mengembangkan sebuah backend yang mampu memprediksi cancer 
 
 ## _English_
 
-### [Dicoding: Learning to Implement Machine Learning with Google Cloud](https://www.dicoding.com/academies/658)
 ### Certificate
 The certificate of completion can be viewed at [this link](https://www.dicoding.com/certificates/JLX1728E2X72).
 
